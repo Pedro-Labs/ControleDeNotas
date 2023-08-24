@@ -1,0 +1,7 @@
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\bin\Debug\ControleDeNotas.exe.config
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\bin\Debug\ControleDeNotas.exe
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\bin\Debug\ControleDeNotas.pdb
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\obj\Debug\ControleDeNotas.csproj.AssemblyReference.cache
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\obj\Debug\ControleDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\obj\Debug\ControleDeNotas.exe
+C:\Users\SRMidia\source\repos\ControleDeNotas\ControleDeNotas\obj\Debug\ControleDeNotas.pdb
